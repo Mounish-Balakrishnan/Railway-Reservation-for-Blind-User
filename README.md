@@ -1,2 +1,7 @@
-
-A Railway Reservation System for Blind users should prioritize accessibilitythrough voice command integration, screen reader compatibility, and tactile feedback options. Itshould off er clear audio instructions, tactile markers for important buttons, and a simple intuitiveinterface
+Before run this program install the "text-to-sppech" module:
+To install follow the below steps:
+1 -->Open command prompt
+2 -->Enter "pip install pyttsx3"
+3 -->The module is installed on your system
+4 -->After installation of the module
+5 -->Run the program 
